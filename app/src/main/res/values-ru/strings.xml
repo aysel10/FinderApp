@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Finder.com</string>
+    <string name="title_activity_register">Регистрация</string>
+    <string name="name">Имя</string>
+    <string name="number">Номер телефона</string>
+    <string name="title">Finder</string>
+    <string name="surname">Фамилия</string>
+    <string name="signup">Создать аккаунт</string>
+    <string name="login">Логин</string>
+    <string name="title_activity_login">Войти</string>
+    <string name="have_not_account">Все еще нет аккаунта?</string>
+    <string name="title_activity_welcome">Finder</string>
+    <string name="lose">Lose</string>
+    <string name="general">General</string>
+    <string name="find">Find</string>
+    <string name="upload_post">Загрузить</string>
+    <string name="item_title">Название</string>
+    <string name="item_description">Описание</string>
+    <string name="err_msg_email">Введите почту</string>
+    <string name="err_msg_name">Введите имя</string>
+    <string name="err_msg_surname">Введите фамилию</string>
+    <string name="err_msg_phone">Введите номер</string>
+    <string name="title_activity_crop">CropActivity</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_item_info">ItemInfoActivity</string>
+    <string name="title_activity_loading">Loading</string>
+    <string name="err_msg_password">Введите пароль</string>
+    <string name="info_item">Детали</string>
+    <string name="info_contact">О Контакте</string>
+    <string name="info_place">"О месте "</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="logout">Выйти</string>
+
+
+</resources>

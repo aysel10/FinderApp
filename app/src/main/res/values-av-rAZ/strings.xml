@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Finder.com</string>
+    <string name="title_activity_register">Register</string>
+    <string name="name">Ad</string>
+    <string name="email">Email</string>
+    <string name="password">Parol</string>
+    <string name="number">Şifrə</string>
+    <string name="title">Finder</string>
+    <string name="surname">Soyad</string>
+    <string name="signup">Account yaratmağ</string>
+    <string name="login">Daxil ol</string>
+    <string name="title_activity_login">Login</string>
+    <string name="have_not_account">a</string>
+    <string name="title_activity_welcome">Finder</string>
+    <string name="lose">Lose</string>
+    <string name="general">General</string>
+    <string name="find">Find</string>
+    <string name="upload_post">Yüklə</string>
+    <string name="item_title">Title</string>
+    <string name="item_description">Təsvir</string>
+    <string name="err_msg_email">Email məcburidi</string>
+    <string name="err_msg_name">Ad məcburidi</string>
+    <string name="err_msg_surname">Soyad məcburidi</string>
+    <string name="err_msg_phone">Nömrə mecburidi</string>
+    <string name="err_msg_password">Şifrə mecburidi</string>
+    <string name="title_activity_crop">CropActivity</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_item_info">ItemInfoActivity</string>
+    <string name="info_item">Əşya haqqinda</string>
+    <string name="info_contact">Kontakt</string>
+    <string name="info_place">Yer haqqinda</string>
+    <string name="title_activity_loading">Loading</string>
+    <string name="logout">Çıxış</string>
+</resources>

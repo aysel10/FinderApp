@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Finder.com</string>
+    <string name="title_activity_register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="number">Phone Number</string>
+    <string name="title">Finder</string>
+    <string name="surname">Surname</string>
+    <string name="signup">Create Account</string>
+    <string name="login">Login</string>
+    <string name="title_activity_login">Login</string>
+    <string name="have_not_account">Do not have account?</string>
+    <string name="title_activity_welcome">Finder</string>
+    <string name="lose">Lose</string>
+    <string name="general">General</string>
+    <string name="find">Find</string>
+    <string name="upload_post">Upload</string>
+    <string name="item_title">Title</string>
+    <string name="item_description">Description</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_name">Enter the name</string>
+    <string name="err_msg_surname">Enter the surname</string>
+    <string name="err_msg_phone">Enter the phone</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="title_activity_crop">CropActivity</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_item_info">ItemInfoActivity</string>
+    <string name="info_item">Item Details</string>
+    <string name="info_contact">About Contact</string>
+    <string name="info_place">About Place</string>
+    <string name="title_activity_loading">Loading</string>
+    <string name="logout">Logout</string>
+</resources>
